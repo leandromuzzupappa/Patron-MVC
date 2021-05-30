@@ -10,7 +10,10 @@ app.listen(3000, () =>
 );
 
 // Leo y parseo el contenido de peliculas.json
-const moviesJson = fs.readFileSync(__dirname + "/data/movies.json", "utf-8");
+const moviesJson = fs.readFileSync(
+    __dirname + "/database/movies.json",
+    "utf-8"
+);
 const movies = JSON.parse(moviesJson);
 
 // Rutas

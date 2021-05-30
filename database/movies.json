@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Shrek 2",
+        "description": "De vuelta en Muy Muy Lejano, Shrek y Fiona anuncian su unión, pero el siniestro plan del príncipe Encantador atenta contra la sempiterna felicidad conyugal.",
+        "directors": "Andrew Adamson, Kelly Asbury, Conrad Vernon",
+        "releaseDate": "19 de Mayo de 2004",
+        "length": "1h 33min"
+    },
+    {
+        "id": 2,
+        "title": "Instant family",
+        "description": "Dos remodeladores se embarcan en un nuevo proyecto: adoptar a tres niños. Pronto, la pareja descubre que ser una familia es mucho más que vivir bajo el mismo techo.",
+        "directors": "Sean Anders",
+        "releaseDate": "16 de Noviembre de 2018",
+        "length": "1h 58min"
+    },
+    {
+        "id": 3,
+        "title": "El camino hacia el dorado",
+        "description": "En el siglo XVI, dos estafadores españoles ganan un mapa hacia la legendaria ciudad del oro, pero, al llegar a El Dorado, las cosas no suceden de acuerdo con el plan.",
+        "directors": "Eric 'Bibo' Bergeron, Don Paul, Jeffrey Katzenberg",
+        "releaseDate": "31 de Marzo de 2000",
+        "length": "1h 29min"
+    },
+    {
+        "id": 4,
+        "title": "The Truman show",
+        "description": "Truman Burbank es la estrella de The Truman Show, un fenómeno televisivo de 24 horas en el que se transmite cada aspecto de su vida, pero él no lo sabe.",
+        "directors": "Peter Weir",
+        "releaseDate": "5 de Junio de 1998",
+        "length": "1h 43min"
+    },
+    {
+        "id": 5,
+        "title": "¿Y dónde estan las rubias?",
+        "description": "Dos agentes negros del FBI cuya misión es cuidar a dos aristócratas cabezas huecas se hacen pasar por dos muchachas blancas para atrapar a los posibles secuestradores.",
+        "directors": "Keenen Ivory Wayans",
+        "releaseDate": "23 de Junio de 2004",
+        "length": "1h 49min"
+    },
+    {
+        "id": 6,
+        "title": "Escuela de rock",
+        "description": "Un músico en dificultades usa sus artimañas para obtener un empleo de maestro suplente en una escuela privada, donde enseña en secreto rock 'n' roll a los niños.",
+        "directors": "Richard Linklater",
+        "releaseDate": "3 de Octubre de 2003",
+        "length": "1h 49min"
+    },
+    {
+        "id": 7,
+        "title": "Mi novia Polly",
+        "description": "Después de ser abandonado por su esposa en la luna de miel, el mojigato Reuben se reencuentra con una irreverente amiga de la infancia que le enseña a vivir al límite.",
+        "directors": "John Hamburg",
+        "releaseDate": "16 de Enero de 2004",
+        "length": "1h 30min"
+    },
+    {
+        "id": 8,
+        "title": "Forrest Gump",
+        "description": "Tom Hanks es Forrest Gump, un hombre ingenuo que resulta estar en medio de casi todos los hechos más importantes de los sesenta y setenta.",
+        "directors": "Robert Zemeckis",
+        "releaseDate": "6 de Julio de 1994",
+        "length": "2h 22min"
+    },
+    {
+        "id": 9,
+        "title": "Kung Fu Panda",
+        "description": "De los creadores de Shrek, llega la conmovedora y familiar historia de Po, un gran soñador que quiere convertirse en el legendario Guerrero Dragón.",
+        "directors": "Mark Osborne, John Stevenson",
+        "releaseDate": "6 de Junio de 2008",
+        "length": "1h 32min"
+    },
+    {
+        "id": 10,
+        "title": "Los pingüinos de Madagascar",
+        "description": "Los espías de alto vuelo Skipper, Kowalski, Rico y Cabo unen fuerzas con los agentes del Viento Norte para vencer al malvado Octavio Salitre.",
+        "directors": "Eric Darnell, Simon J. Smith",
+        "releaseDate": "26 de Noviembre de 2014",
+        "length": "1h 32min"
+    }
+]
